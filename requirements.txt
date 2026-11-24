@@ -1,0 +1,5 @@
+cat > requirements.txt << 'EOF'
+drms
+pandas
+numpy
+EOF
